@@ -1,6 +1,7 @@
 ---
 title: "Predictions, role of interventions and effects of a historic national lockdown in India's response to the COVID-19 pandemic: data science call to arms"
 collection: publications
+type: publication
 permalink: /publication/2020-hdsr-covid/
 date: 2020-06-09
 venue: "Harvard Data Science Review"
