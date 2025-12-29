@@ -44,16 +44,10 @@
 
 <p class="archive__item-excerpt">
   {{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
-  <em>
-    {{ post.venue }}
-    {% if post.special_issue %}
-      ({{ post.special_issue }})
-    {% elsif post.volume %}
-      , {{ post.volume }}{% if post.pages %}, {{ post.pages }}{% endif %}
-    {% endif %}
-  </em>,
+  <em>{{ post.venue }}{% if post.special_issue %} ({{ post.special_issue }}){% elsif post.volume %}, {{ post.volume }}{% if post.pages %}, {{ post.pages }}{% endif %}{% endif %}</em>,
   {{ post.date | date: "%Y" }}
 </p>
+
 
 
     
