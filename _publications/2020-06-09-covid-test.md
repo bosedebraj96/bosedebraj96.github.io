@@ -6,12 +6,9 @@ permalink: /publication/2020-hdsr-covid
 excerpt: 
 date: 2020-06-09
 venue: 'Harvard Data Science Review'
+special_issue: 'Special Issue 1'
 slidesurl: 
+year: 2020
 paperurl: 'https://hdsr.mitpress.mit.edu/pub/r1qq01kw/release/6'
-citation: 'Ray, D., Salvatore, M., Bhattacharyya, R., Wang, L., Du, J., Mohammed, S.,
-  Mukherjee, B. (2020). Predictions, Role of Interventions and Effects of a
-  Historic National Lockdown in India’s Response to the COVID-19 Pandemic.
-  Harvard Data Science Review. https://doi.org/10.1162/99608f92.60e08ed5'
+authors: 'Ray, D., Salvatore, M., Bhattacharyya, R., Wang, L., Du, J., Mohammed, S., Purkayastha, S., ..., **Bose, D.**, ..., Mukherjee, B.'
 ---
-
-This is a test version of my publication.
