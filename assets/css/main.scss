@@ -42,11 +42,21 @@
     "vendor/font-awesome/brands"
 ;
 
+/* Publication list styling */
+.archive__item-title {
+  font-size: 1.35rem;
+}
+
 .archive__item-excerpt {
-  font-size: 1rem;
-  line-height: 1.4;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  margin-top: 0.2rem;
 }
 
 .archive__item-excerpt em {
-  font-size: 1rem;
+  font-size: 1.05rem;
+}
+
+.archive__item-excerpt {
+  color: #444;
 }
