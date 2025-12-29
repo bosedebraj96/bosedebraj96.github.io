@@ -36,11 +36,14 @@
     </h2>
     {% endcomment %}
 
-    <h2 class="archive__item-title">
+    {% unless post.collection == "talks" %}
+<h2 class="archive__item-title">
   <a href="{{ post.paperurl }}" target="_blank">
     {{ title }}
   </a>
 </h2>
+{% endunless %}
+
 
 <p class="archive__item-excerpt">
   {{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
@@ -50,10 +53,18 @@
 
 
 
-    
+    {% comment %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
+    {% endcomment %}
+    
+    {% if post.read_time and post.collection != "talks" %}
+  <p class="page__meta">
+    <i class="fa fa-clock"></i>
+    {% include read-time.html %}
+  </p>
+{% endif %}
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
