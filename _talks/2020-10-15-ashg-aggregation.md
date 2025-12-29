@@ -3,6 +3,6 @@ collection: talks
 type: "Poster"
 permalink: /talks/2020-10-15-ashg
 venue: "American Society of Human Genetics Annual Meeting"
-date: 2020
+date: 2020-10-15
 location: "Virtual Conference"
 ---
