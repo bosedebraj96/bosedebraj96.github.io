@@ -1,4 +1,5 @@
 ---
+title: ""
 collection: talks
 type: "Poster"
 permalink: /talks/2020-10-15-ashg
