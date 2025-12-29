@@ -1,10 +1,9 @@
 ---
 layout: single
 author_profile: true
+title: Welcome!
 permalink: /
 ---
-
-## Welcome
 
 I am a PhD student in the **Department of Biostatistics at the University of Michigan**.  
 I hold a **B.Sc. (Hons) in Statistics** from *St. Xavier’s College, Kolkata* and an **M.Stat.** from *Indian Statistical Institute, Kolkata*.
