@@ -43,7 +43,7 @@
 </h2>
 
 <p class="archive__item-excerpt">
-  {{ post.authors | strip_html }}<br>
+  {{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}<br>
   <em>{{ post.venue }}{% if post.special_issue %} ({{ post.special_issue }}){% endif %}</em>,
   {{ post.date | date: "%Y" }}
 </p>
