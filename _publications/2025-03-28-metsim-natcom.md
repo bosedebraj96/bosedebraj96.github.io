@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-natcom-metsim
 excerpt: 
 date: 2025-03-28
-venue: 'American Journal of Human Genetics'
+venue: 'Nature Communications'
 volume: 16
 pages: 3039
 slidesurl: 
