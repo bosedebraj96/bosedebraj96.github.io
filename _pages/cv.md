@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biostatistics, University of Michigan, Ann Arbor, 2026 (expected)
+* M.Stat., Indian Statistical Institute, Kolkata 2019
+* B.Sc. (Hons) in Statistics, St. Xavier's College, Kolkata, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-Present: Graduate Research Assistant at University of Michigan
+  * Worked on various areas in statistical genetics including GWAS, aggregation tests, metabolomics, causal gene prioritization, integration of association data with molecular QTLs and gene features
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019: Master's Project at Indian Statistical Institute, Kolkata
+  * Developed a novel classification method based on optimal histogram construction in one and multiple dimensions
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2018: Intern in Analytics & Strategic Initiatives Team at Reliance Industries Limited, Navi Mumbai
+  * Built NLP-based pipelines in \textbf{Python} to extract, summarize, and classify information from quarterly financial reports of major oil and gas competitors
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: English, Bengali, Hindi
+* Programming languages: R, Python, C++, Linux, Git
+* Summary of statistical and computational skills
+  * Analyzing and performing simulations with **large-scale genetic and metabolomic datasets** in high-performance **Linux** computing environments.
+  * **Statistical modeling and inference in R**, including longitudinal, survival, and clinical trial data analysis
+  * Data visualizations and interactive dashboards using **R Shiny, ggplot2, plotly**, and **flexdashboard**
 
 Publications
 ======
@@ -47,7 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -58,7 +52,10 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Communications Chair (2024-2025) and Member (2023-2025) of Statistics in the Community (STATCOM), a graduate student-run consulting group that provides pro bono statistical services to non-profits and community organizations
+* Vice-President (2020-2022) and A-Team Member (2019-2025) of University of Michigan Table Tennis Team
+
