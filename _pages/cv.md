@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+📄 Here is my **[CV](/files/Debraj_Resume.pdf)**. You can find a brief biosketch below.
+
+---
+
 Education
 ======
 * Ph.D in Biostatistics, University of Michigan, Ann Arbor, 2026 (expected)
@@ -24,7 +28,7 @@ Work experience
   * Developed a novel classification method based on optimal histogram construction in one and multiple dimensions
 
 * Summer 2018: Intern in Analytics & Strategic Initiatives Team at Reliance Industries Limited, Navi Mumbai
-  * Built NLP-based pipelines in \textbf{Python} to extract, summarize, and classify information from quarterly financial reports of major oil and gas competitors
+  * Built NLP-based pipelines in **Python** to extract, summarize, and classify information from quarterly financial reports of major oil and gas competitors
 
 Skills
 ======
