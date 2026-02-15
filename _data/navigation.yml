@@ -27,7 +27,7 @@ main:
     url: /cv/
 
   - title: "Non-academic interests"
-  url: /nonacademic/
+    url: /nonacademic/
     
   # - title: "CV"
   #   url: /cv-json/
