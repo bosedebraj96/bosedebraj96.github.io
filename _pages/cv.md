@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-📄 Here is my **[CV](/files/Debraj_Resume.pdf)**. You can find a brief biosketch below.
+📄 Here is my **[CV](/files/Debraj_Resume_022026.pdf)**. You can find a brief biosketch below.
 
 ---
 
